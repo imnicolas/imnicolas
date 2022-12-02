@@ -13,6 +13,7 @@
 <body>
     <section>
         <h1>
+            <span>WELCOME TO </span>
             <span>A</span>
             <span>R</span>
             <span>G</span>
