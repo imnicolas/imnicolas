@@ -1,5 +1,5 @@
 # 💫 About Me:
-TechForb developer<br>trying to collaborate with people, on projects like freelance or studying together<br>maybe if i can help at some point, it's github repositories, seeing issues and improve fixes<br>i'm now learning about angular material and scss for front end tasks<br>ask me about any i'll talk with you<br>don't really know how after a year an a half, learning about world it, and take my first job<br>keep learning and more focused but i'm keeping feel a beginner ^^
+TechForb developer<br>trying to collaborate with people, on projects like freelance or studying together<br>maybe if i can help at some point, it's github repositories, seeing issues and improve fixes<br>i'm now learning about angular and java for be full stack + jira - bitbucket workflow<br>ask me about any i'll talk with you<br>don't really know how after a year an a half, learning about world it, and take my first job<br>keep learning and more focused but i'm keeping feel a beginner ^^
 
 
 ## 🌐 Socials:
